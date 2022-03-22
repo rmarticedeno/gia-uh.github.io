@@ -90,3 +90,11 @@ masters:
     es: Adiestrado en el ICIMAF.
   institution: Interdisciplinary Mathematics Department, ICIMAF
   email: fsadannn@icimaf.cu
+
+- name: Roberto Marti Cedeo
+  bio:
+    en: Intern Professor and System Administrator at the University of Havana.
+    es: Profesor Adiestrado y Administrador de Sistemas en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: roberto@uh.cu
+  github: rmarticedeno
